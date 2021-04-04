@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/JSP/top-list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/JSP" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/head.tag" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/template/page-template.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/template" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/JSP/sing-up-success.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/JSP" />
+      </map>
+    </option>
+  </component>
+</project>
